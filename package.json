@@ -1,0 +1,16 @@
+{
+  "name": "cookie-util",
+  "version": "1.0.0",
+  "description": "a cookie util module",
+  "main": "cookie.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "https://github.com/1peng/cookie-utils.git",
+  "keywords": [
+    "cookie",
+    "cookie-util"
+  ],
+  "author": "wangyipeng",
+  "license": "MIT"
+}
